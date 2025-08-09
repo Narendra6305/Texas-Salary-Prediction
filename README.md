@@ -121,8 +121,6 @@ Deploy the model with a Streamlit dashboard for interactive use.
 
 Use SHAP or LIME for feature impact explanation.
 
-📝 License
-This project is licensed under the MIT License. You are free to use, modify, and distribute it with proper credit.
 
 ✨ Credits
 Developed by Narendra6305
